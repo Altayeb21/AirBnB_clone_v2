@@ -1,1 +1,1 @@
-k
+This directory implements webpage design.
